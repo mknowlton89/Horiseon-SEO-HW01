@@ -14,3 +14,5 @@ The steps taken to increase accessibility on this site include:
 https://mknowlton89.github.io/horiseon-seo-hw01/
 
 # Screenshot of the application
+https://github.com/mknowlton89/Horiseon-SEO-HW01/blob/main/assets/images/hw01-final-product-screenshot.png
+
